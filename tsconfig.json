@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "allowSyntheticDefaultImports": true,
+        "resolveJsonModule": true,
+        "module": "ES6",
+        "target": "ES6",
+        "outDir": "./dist/js/",
+        "rootDir": "./src",
+        "forceConsistentCasingInFileNames": true,
+        "esModuleInterop": true,
+    },
+    "include": ["./src/**/*"]
+}
